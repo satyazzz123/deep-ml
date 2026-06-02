@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:06:25.477Z",
+  "generated_at": "2026-09-15T04:06:27.070Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -468,6 +468,32 @@
       "last_pushed_at": "2026-06-01T05:32:48.015Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-06-02T02:43:55.071Z",
+      "last_pushed_at": "2026-06-02T02:43:55.071Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-06-02T03:20:22.643Z",
+      "last_pushed_at": "2026-06-02T03:20:22.643Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
