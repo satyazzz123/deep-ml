@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:06:27.070Z",
+  "generated_at": "2026-09-15T04:06:28.710Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -494,6 +494,32 @@
       "last_pushed_at": "2026-06-02T03:20:22.643Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-06-03T02:44:42.077Z",
+      "last_pushed_at": "2026-06-03T02:44:42.077Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-06-03T03:08:42.571Z",
+      "last_pushed_at": "2026-06-03T03:08:42.571Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
