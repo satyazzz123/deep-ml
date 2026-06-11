@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:06:40.851Z",
+  "generated_at": "2026-09-15T04:06:42.474Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -611,6 +611,45 @@
       "last_pushed_at": "2026-06-10T11:49:33.285Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-06-11T04:42:17.482Z",
+      "last_pushed_at": "2026-06-11T04:42:17.482Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-06-11T13:56:47.648Z",
+      "last_pushed_at": "2026-06-11T13:56:47.648Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:55": {
+      "kind": "problem",
+      "id": "55",
+      "title": "2D Translation Matrix Implementation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/55",
+      "path": "problems/0055-2d-translation-matrix-implementation",
+      "first_solved_at": "2026-06-11T14:30:49.599Z",
+      "last_pushed_at": "2026-06-11T14:30:49.599Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
