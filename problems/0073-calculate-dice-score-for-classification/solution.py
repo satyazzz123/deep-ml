@@ -1,0 +1,29 @@
+import torch
+from collections import Counter
+def dice_score(y_true: torch.Tensor, y_pred: torch.Tensor) -> float:
+    """
+    Calculate the Dice Score (Sørensen-Dice coefficient) for binary classification.
+
+    Args:
+        y_true: Binary tensor of true labels.
+        y_pred: Binary tensor of predicted labels.
+
+    Returns:
+        Dice Score as a float rounded to 3 decimal places.
+    """
+    # Write your code here
+    y_true=torch.as_tensor(y_true,dtype=torch.float32)
+    y_pred=torch.as_tensor(y_pred,dtype=torch.float32)
+    TP=y_true+y_pred
+    TP=Counter(TP.tolist())
+    TP=TP[2]
+    FP=y_true/y_pred
+    FP=Counter(FP.tolist())
+    FP=FP[0]
+    FN=y_pred/y_true
+    FN=Counter(FN.tolist())
+    FN=FN[0]
+
+
+    res=(2*(TP)/((2*TP)+FP+FN+0.000000001))
+    return round(res, 3)
