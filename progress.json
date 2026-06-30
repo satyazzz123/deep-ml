@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:10.258Z",
+  "generated_at": "2026-09-15T04:09:11.975Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -884,6 +884,32 @@
       "last_pushed_at": "2026-06-29T03:09:54.530Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-06-30T03:08:55.796Z",
+      "last_pushed_at": "2026-06-30T03:08:55.796Z",
+      "language": "python",
+      "lines": 118
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-06-30T03:23:38.542Z",
+      "last_pushed_at": "2026-06-30T03:23:38.542Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
