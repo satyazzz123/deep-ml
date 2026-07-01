@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:11.975Z",
+  "generated_at": "2026-09-15T04:09:13.772Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -910,6 +910,45 @@
       "last_pushed_at": "2026-06-30T03:23:38.542Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-07-01T02:59:25.468Z",
+      "last_pushed_at": "2026-07-01T02:59:25.468Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-07-01T03:40:39.792Z",
+      "last_pushed_at": "2026-07-01T03:40:39.792Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-07-01T04:52:12.017Z",
+      "last_pushed_at": "2026-07-01T04:52:12.017Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
