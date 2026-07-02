@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:13.772Z",
+  "generated_at": "2026-09-15T04:09:15.455Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -949,6 +949,45 @@
       "last_pushed_at": "2026-07-01T04:52:12.017Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-07-02T03:29:34.121Z",
+      "last_pushed_at": "2026-07-02T03:29:34.121Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2026-07-02T03:47:11.206Z",
+      "last_pushed_at": "2026-07-02T03:47:11.206Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-07-02T03:52:38.851Z",
+      "last_pushed_at": "2026-07-02T03:52:38.851Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
