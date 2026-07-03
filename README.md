@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 76 problems · 0 labs · 0 math
+**79** solved · 79 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-06-23 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-06-25 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-05-20 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-07-03 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-02 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-05-12 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-06-29 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
@@ -45,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-05-08 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-05-01 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-05-25 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-07-03 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-02 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-05-19 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-05-03 | [solution](problems/0003-reshape-matrix) |
@@ -87,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-05-21 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-05-11 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-06-17 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-07-03 | [solution](problems/0085-positional-encoding-calculator) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-05-09 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ---

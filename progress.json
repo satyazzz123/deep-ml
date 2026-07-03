@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:15.455Z",
+  "generated_at": "2026-09-15T04:09:17.136Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -988,6 +988,45 @@
       "last_pushed_at": "2026-07-02T03:52:38.851Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2026-07-03T03:08:37.402Z",
+      "last_pushed_at": "2026-07-03T03:08:37.402Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2026-07-03T03:51:56.305Z",
+      "last_pushed_at": "2026-07-03T03:51:56.305Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-07-03T03:59:05.461Z",
+      "last_pushed_at": "2026-07-03T03:59:05.461Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
