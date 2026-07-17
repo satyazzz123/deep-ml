@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:38.761Z",
+  "generated_at": "2026-09-15T04:09:40.357Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1248,6 +1248,32 @@
       "last_pushed_at": "2026-07-16T08:29:00.598Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-07-17T04:19:55.721Z",
+      "last_pushed_at": "2026-07-17T04:19:55.721Z",
+      "language": "python",
+      "lines": 52
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-07-17T05:04:37.301Z",
+      "last_pushed_at": "2026-07-17T05:04:37.301Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
