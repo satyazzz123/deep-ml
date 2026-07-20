@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 101 problems · 0 labs · 0 math
+**102** solved · 102 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-05-31 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-05-04 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-06-30 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-07-20 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-06-28 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-05-29 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-07-19 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
