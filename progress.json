@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:45.307Z",
+  "generated_at": "2026-09-15T04:09:46.946Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1326,6 +1326,32 @@
       "last_pushed_at": "2026-07-20T04:19:48.918Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-07-21T02:50:54.111Z",
+      "last_pushed_at": "2026-07-21T02:50:54.111Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-07-21T03:01:40.196Z",
+      "last_pushed_at": "2026-07-21T03:01:40.196Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
