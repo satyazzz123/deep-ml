@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:48.601Z",
+  "generated_at": "2026-09-15T04:09:50.202Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1365,6 +1365,32 @@
       "last_pushed_at": "2026-07-22T04:08:00.211Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-07-23T15:49:52.483Z",
+      "last_pushed_at": "2026-07-23T15:49:52.483Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2026-07-23T18:02:55.675Z",
+      "last_pushed_at": "2026-07-23T18:02:55.675Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
