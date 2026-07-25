@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:51.919Z",
+  "generated_at": "2026-09-15T04:09:53.702Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1404,6 +1404,32 @@
       "last_pushed_at": "2026-07-24T05:15:27.383Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-07-25T03:27:12.279Z",
+      "last_pushed_at": "2026-07-25T03:27:12.279Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:119": {
+      "kind": "problem",
+      "id": "119",
+      "title": "Solve System of Linear Equations Using Cramer's Rule",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/119",
+      "path": "problems/0119-solve-system-of-linear-equations-using-cramer-s-rule",
+      "first_solved_at": "2026-07-25T04:06:14.622Z",
+      "last_pushed_at": "2026-07-25T04:06:14.622Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
