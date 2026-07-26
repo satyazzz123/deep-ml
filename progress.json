@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:53.702Z",
+  "generated_at": "2026-09-15T04:09:55.626Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1430,6 +1430,32 @@
       "last_pushed_at": "2026-07-25T04:06:14.622Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2026-07-26T03:54:38.205Z",
+      "last_pushed_at": "2026-07-26T03:54:38.205Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-07-26T04:14:07.803Z",
+      "last_pushed_at": "2026-07-26T04:14:07.803Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
