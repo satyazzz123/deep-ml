@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**113** solved · 113 problems · 0 labs · 0 math
+**114** solved · 114 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -103,6 +103,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-06-07 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-06-11 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-06-15 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
+| [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-07-28 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-06-11 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-05-27 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-05-14 | [solution](problems/0017-k-means-clustering) |
