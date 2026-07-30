@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:10:12.750Z",
+  "generated_at": "2026-09-15T04:10:14.218Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1495,6 +1495,19 @@
       "last_pushed_at": "2026-07-29T05:53:03.667Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:126": {
+      "kind": "problem",
+      "id": "126",
+      "title": "Implement Group Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/126",
+      "path": "problems/0126-implement-group-normalization",
+      "first_solved_at": "2026-07-30T03:28:17.023Z",
+      "last_pushed_at": "2026-07-30T03:28:17.023Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
