@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**134** solved · 134 problems · 0 labs · 0 math
+**135** solved · 135 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -126,6 +126,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-08-12 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-05-14 | [solution](problems/0017-k-means-clustering) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-08 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Mask Instruction Tokens for Loss Computation](https://www.deep-ml.com/problems/1066) | medium | 2026-08-17 | [solution](problems/1066-mask-instruction-tokens-for-loss-computation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-05 | [solution](problems/0007-matrix-transformation) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-07-01 | [solution](problems/0080-normal-distribution-pdf-calculator) |
