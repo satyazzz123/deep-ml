@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**137** solved · 137 problems · 0 labs · 0 math
+**139** solved · 139 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-07-15 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-05-05 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-05-26 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Batch Prediction Health Metrics](https://www.deep-ml.com/problems/249) | easy | 2026-08-20 | [solution](problems/0249-calculate-batch-prediction-health-metrics) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-07-27 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-06-30 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-05-07 | [solution](problems/0010-calculate-covariance-matrix) |
@@ -99,6 +100,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-06-30 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-23 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-07-20 | [solution](problems/0111-compute-pointwise-mutual-information) |
+| [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-08-20 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-06-28 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-05-29 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-08-14 | [solution](problems/0151-dropout-layer) |
