@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**142** solved · 142 problems · 0 labs · 0 math
+**143** solved · 143 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-05-26 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Batch Prediction Health Metrics](https://www.deep-ml.com/problems/249) | easy | 2026-08-20 | [solution](problems/0249-calculate-batch-prediction-health-metrics) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-07-27 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
+| [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-08-24 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-06-30 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-05-07 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-06-27 | [solution](problems/0073-calculate-dice-score-for-classification) |
