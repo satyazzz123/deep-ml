@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:10:53.467Z",
+  "generated_at": "2026-09-15T04:10:54.894Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1859,6 +1859,19 @@
       "last_pushed_at": "2026-08-24T14:06:30.476Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1258": {
+      "kind": "problem",
+      "id": "1258",
+      "title": "NF4 Quantization (NormalFloat4)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1258",
+      "path": "problems/1258-nf4-quantization-normalfloat4",
+      "first_solved_at": "2026-08-25T05:29:18.528Z",
+      "last_pushed_at": "2026-08-25T05:29:18.528Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }

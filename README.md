@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**143** solved · 143 problems · 0 labs · 0 math
+**144** solved · 144 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -137,6 +137,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-05 | [solution](problems/0007-matrix-transformation) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-08-22 | [solution](problems/0160-mixed-precision-training) |
+| [NF4 Quantization (NormalFloat4)](https://www.deep-ml.com/problems/1258) | medium | 2026-08-25 | [solution](problems/1258-nf4-quantization-normalfloat4) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-07-01 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-06-10 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-05-16 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
