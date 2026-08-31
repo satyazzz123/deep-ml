@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:11:02.402Z",
+  "generated_at": "2026-09-15T04:11:03.831Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1937,6 +1937,19 @@
       "last_pushed_at": "2026-08-30T05:08:59.855Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:170": {
+      "kind": "problem",
+      "id": "170",
+      "title": "Muon Optimizer Step with Matrix Preconditioning",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/170",
+      "path": "problems/0170-muon-optimizer-step-with-matrix-preconditioning",
+      "first_solved_at": "2026-08-31T06:04:19.088Z",
+      "last_pushed_at": "2026-08-31T06:04:19.088Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }
