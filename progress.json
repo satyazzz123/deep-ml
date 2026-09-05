@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:11:43.382Z",
+  "generated_at": "2026-09-15T04:11:44.816Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2002,6 +2002,19 @@
       "last_pushed_at": "2026-09-04T03:23:09.193Z",
       "language": "sql",
       "lines": 6
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-09-05T04:45:11.002Z",
+      "last_pushed_at": "2026-09-05T04:45:11.002Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
