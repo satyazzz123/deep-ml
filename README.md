@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**158** solved · 158 problems · 0 labs · 0 math
+**159** solved · 159 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -108,6 +108,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-09-01 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-23 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-07-20 | [solution](problems/0111-compute-pointwise-mutual-information) |
+| [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-09-08 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-08-20 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-06-28 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-05-29 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
