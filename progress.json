@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:11:49.439Z",
+  "generated_at": "2026-09-15T04:11:50.873Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2067,6 +2067,19 @@
       "last_pushed_at": "2026-09-08T03:28:46.033Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:790": {
+      "kind": "problem",
+      "id": "790",
+      "title": "Sigmoidal Accuracy-to-Log-Likelihood Scaling Law Fit",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/790",
+      "path": "problems/0790-sigmoidal-accuracy-to-log-likelihood-scaling-law-fit",
+      "first_solved_at": "2026-09-09T07:28:47.145Z",
+      "last_pushed_at": "2026-09-09T07:28:47.145Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
