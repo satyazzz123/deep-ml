@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:11:52.301Z",
+  "generated_at": "2026-09-15T04:11:53.913Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2093,6 +2093,19 @@
       "last_pushed_at": "2026-09-10T04:37:59.341Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-09-11T03:53:32.545Z",
+      "last_pushed_at": "2026-09-11T03:53:32.545Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
