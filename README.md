@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**163** solved · 163 problems · 0 labs · 0 math
+**164** solved · 164 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -152,6 +152,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-05 | [solution](problems/0007-matrix-transformation) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-08-22 | [solution](problems/0160-mixed-precision-training) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-08-31 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
+| [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-09-13 | [solution](problems/0204-mutual-information) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-08-28 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [NF4 Quantization (NormalFloat4)](https://www.deep-ml.com/problems/1258) | medium | 2026-08-25 | [solution](problems/1258-nf4-quantization-normalfloat4) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-07-01 | [solution](problems/0080-normal-distribution-pdf-calculator) |
