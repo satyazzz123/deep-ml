@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**164** solved · 164 problems · 0 labs · 0 math
+**165** solved · 165 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -147,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-08-12 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-05-14 | [solution](problems/0017-k-means-clustering) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-08 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Looped Transformer Stack Forward Pass](https://www.deep-ml.com/problems/1387) | medium | 2026-09-14 | [solution](problems/1387-looped-transformer-stack-forward-pass) |
 | [Mask Instruction Tokens for Loss Computation](https://www.deep-ml.com/problems/1066) | medium | 2026-08-17 | [solution](problems/1066-mask-instruction-tokens-for-loss-computation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-05 | [solution](problems/0007-matrix-transformation) |
