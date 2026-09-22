@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**173** solved · 173 problems · 0 labs · 0 math
+**174** solved · 174 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-07-03 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-02 | [solution](problems/0083-dot-product-calculator) |
 | [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2026-07-31 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
+| [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-09-22 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-19 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-06 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2026-08-18 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |

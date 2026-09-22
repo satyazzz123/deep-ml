@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:40:57.083Z",
+  "generated_at": "2026-09-22T04:05:47.042Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2249,6 +2249,19 @@
       "last_pushed_at": "2026-09-21T03:40:36.967Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:947": {
+      "kind": "problem",
+      "id": "947",
+      "title": "Embedding Layer as One-Hot Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/947",
+      "path": "problems/0947-embedding-layer-as-one-hot-matrix-multiplication",
+      "first_solved_at": "2026-09-22T04:05:46.025Z",
+      "last_pushed_at": "2026-09-22T04:05:46.025Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
