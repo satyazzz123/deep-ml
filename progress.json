@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:26:22.240Z",
+  "generated_at": "2026-09-27T04:21:35.700Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2314,6 +2314,19 @@
       "last_pushed_at": "2026-09-26T14:26:21.656Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:1275": {
+      "kind": "problem",
+      "id": "1275",
+      "title": "Tensor Puzzle: First-Order Difference",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1275",
+      "path": "problems/1275-tensor-puzzle-first-order-difference",
+      "first_solved_at": "2026-09-27T04:21:32.957Z",
+      "last_pushed_at": "2026-09-27T04:21:32.957Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
