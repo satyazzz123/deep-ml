@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:20:23.964Z",
+  "generated_at": "2026-10-06T03:55:52.043Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2457,6 +2457,19 @@
       "last_pushed_at": "2026-10-06T03:20:22.439Z",
       "language": "sql",
       "lines": 13
+    },
+    "problem:196": {
+      "kind": "problem",
+      "id": "196",
+      "title": "Warmup + Cosine Decay Schedule",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/196",
+      "path": "problems/0196-warmup-cosine-decay-schedule",
+      "first_solved_at": "2026-10-06T03:55:36.360Z",
+      "last_pushed_at": "2026-10-06T03:55:36.360Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
