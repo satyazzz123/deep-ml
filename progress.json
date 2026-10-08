@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:10:09.489Z",
+  "generated_at": "2026-10-08T04:32:40.532Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2522,6 +2522,19 @@
       "last_pushed_at": "2026-10-08T03:09:58.043Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:1147": {
+      "kind": "problem",
+      "id": "1147",
+      "title": "Queue from Two Stacks and a Min-Stack",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1147",
+      "path": "problems/1147-queue-from-two-stacks-and-a-min-stack",
+      "first_solved_at": "2026-10-08T04:32:39.451Z",
+      "last_pushed_at": "2026-10-08T04:32:39.451Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
