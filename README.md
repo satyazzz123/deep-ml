@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**198** solved · 198 problems · 0 labs · 0 math
+**199** solved · 199 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -175,6 +175,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mask Instruction Tokens for Loss Computation](https://www.deep-ml.com/problems/1066) | medium | 2026-08-17 | [solution](problems/1066-mask-instruction-tokens-for-loss-computation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-05 | [solution](problems/0007-matrix-transformation) |
+| [Mean Shift Clustering](https://www.deep-ml.com/problems/823) | medium | 2026-10-12 | [solution](problems/0823-mean-shift-clustering) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-08-22 | [solution](problems/0160-mixed-precision-training) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-08-31 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-09-13 | [solution](problems/0204-mutual-information) |
