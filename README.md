@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**201** solved · 201 problems · 0 labs · 0 math
+**202** solved · 202 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Row-Normalize a Count Matrix to Probabilities](https://www.deep-ml.com/problems/985) | easy | 2026-09-03 | [solution](problems/0985-row-normalize-a-count-matrix-to-probabilities) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-09-12 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-05-04 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-15 | [solution](problems/1102-select-specific-columns) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-08-08 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-05-17 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-05-13 | [solution](problems/0024-single-neuron) |
