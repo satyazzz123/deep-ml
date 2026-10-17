@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:05:15.267Z",
+  "generated_at": "2026-10-17T05:32:27.314Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2652,6 +2652,19 @@
       "last_pushed_at": "2026-10-17T04:05:14.469Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:1467": {
+      "kind": "problem",
+      "id": "1467",
+      "title": "Correcting Probabilities After Downsampling the Majority Class",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1467",
+      "path": "problems/1467-correcting-probabilities-after-downsampling-the-majority-class",
+      "first_solved_at": "2026-10-17T05:32:26.640Z",
+      "last_pushed_at": "2026-10-17T05:32:26.640Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
