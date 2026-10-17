@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**203** solved · 203 problems · 0 labs · 0 math
+**204** solved · 204 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -203,6 +203,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-08-26 | [solution](problems/0231-temperature-decay-scheduler) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-07-05 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Toy Models of Superposition: Feature Reconstruction](https://www.deep-ml.com/problems/862) | medium | 2026-09-18 | [solution](problems/0862-toy-models-of-superposition-feature-reconstruction) |
+| [Transfer Weights from Linear-Style to Parameter-Style Self-Attention](https://www.deep-ml.com/problems/964) | medium | 2026-10-17 | [solution](problems/0964-transfer-weights-from-linear-style-to-parameter-style-self-attention) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-10-06 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Zero-Copy Batch Data Loading from Shared Memory](https://www.deep-ml.com/problems/659) | medium | 2026-10-10 | [solution](problems/0659-zero-copy-batch-data-loading-from-shared-memory) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-05-21 | [solution](problems/0020-decision-tree-learning) |
