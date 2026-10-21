@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**208** solved · 208 problems · 0 labs · 0 math
+**209** solved · 209 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -177,6 +177,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-08-23 | [solution](problems/0152-implementing-rouge-score) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-08-12 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-13 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-10-21 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-05-14 | [solution](problems/0017-k-means-clustering) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-08 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Looped Transformer Stack Forward Pass](https://www.deep-ml.com/problems/1387) | medium | 2026-09-14 | [solution](problems/1387-looped-transformer-stack-forward-pass) |
