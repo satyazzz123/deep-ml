@@ -3,41 +3,23 @@ import torch
 def zero_pad_image(img, pad_width):
     """
     Add zero padding around a grayscale image.
-    
+
     Args:
         img: 2D list or torch.Tensor of pixel values
         pad_width: integer number of pixels to pad on each side
-    
+
     Returns:
         Padded image as 2D list with integer values,
         or -1 if input is invalid
     """
-    # 1. Validate pad_width
-    if not isinstance(pad_width, int) or pad_width < 0:
-        return -1
+    # Write your code here
+    img=torch.as_tensor(img,dtype=torch.float32)
+    if img.ndim!=2 or pad_width<0 :
+      return -1
+    padding_shape=(img.shape[0]+pad_width*2,img.shape[1]+pad_width*2)
+    padded_tensor=torch.zeros(padding_shape)
+    for i in range(img.shape[0]):
+      for j in range(img.shape[1]):
+        padded_tensor[i+pad_width,j+pad_width]=img[i,j]
 
-    # 2. Safely parse and validate img dimensions
-    try:
-        # Convert to tensor; integer dtype preserves pixel integer values
-        tensor_img = torch.as_tensor(img, dtype=torch.int64)
-    except Exception:
-        return -1
-
-    if tensor_img.ndim != 2:
-        return -1
-
-    h, w = tensor_img.shape
-
-    # Handle zero padding edge-case
-    if pad_width == 0:
-        return tensor_img.tolist()
-
-    # 3. Create padded tensor of zeros
-    padded_shape = (h + 2 * pad_width, w + 2 * pad_width)
-    padded_tensor = torch.zeros(padded_shape, dtype=torch.int64)
-
-    # 4. Copy original image into inner window
-    padded_tensor[pad_width : pad_width + h, pad_width : pad_width + w] = tensor_img
-
-    # 5. Return as 2D list of integers
     return padded_tensor.tolist()

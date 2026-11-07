@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:22:31.259Z",
+  "generated_at": "2026-11-07T11:37:43.200Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2935,9 +2935,9 @@
       "url": "https://www.deep-ml.com/problems/239",
       "path": "problems/0239-apply-zero-padding-to-an-image",
       "first_solved_at": "2026-11-07T11:22:30.179Z",
-      "last_pushed_at": "2026-11-07T11:22:30.179Z",
+      "last_pushed_at": "2026-11-07T11:37:42.051Z",
       "language": "python",
-      "lines": 43
+      "lines": 26
     }
   }
 }
